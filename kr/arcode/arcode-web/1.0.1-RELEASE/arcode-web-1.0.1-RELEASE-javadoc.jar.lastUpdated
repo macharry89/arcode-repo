@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Oct 28 14:59:38 KST 2019
+file\:////Users/june/Documents/projects/KST/macaront/workspace/_repository_/git/backend/macaront/arcode-repo/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1571633132398
+file\:////Users/kwonchulho/git/backend/macaront/arcode-repo/.error=Could not transfer artifact kr.arcode\:arcode-web\:jar\:javadoc\:1.0.1-RELEASE from/to arcode-maven-repo (file\:////Users/kwonchulho/git/backend/macaront/arcode-repo)\: Repository path /Users/kwonchulho/git/backend/macaront/arcode-repo does not exist, and cannot be created.
+@default-arcode-maven-repo-file\:////Users/kwonchulho/git/backend/macaront/arcode-repo/.lastUpdated=1571633131734
+file\:////Users/june/Documents/projects/KST/macaront/workspace/_repository_/git/backend/macaront/arcode-repo/.lastUpdated=1572242378721
+https\://repo.maven.apache.org/maven2/.error=
